@@ -12,4 +12,4 @@
 ![Flask/Django](https://img.shields.io/badge/backend-expertise-green?style=for-the-badge)
 
 ### 📊 GitHub Stats
-![Hasitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical)
+![Hasitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasitha-Sandaruwan-Silva&show_icons=true&theme=radical)
