@@ -9,21 +9,21 @@
 
 Hi, I'm **Hasitha Sandaruwan Silva**, a passionate **Full-stack Developer** from Sri Lanka. I specialize in building robust backends and interactive frontends.
 
-- 🔭 **Backend Architecture:** Currently crafting high-performance **Python Backend** systems.
-- ⚙️ **Frontend Strategy:** Expert in **React** and modular **app.js** logic, following a strict "addition-only" code policy for stability.
-- 🌱 **Learning Path:** Diving deeper into **Scalable APIs** and Cloud-native architectures.
-- 💬 **Ask me about:** Python, JavaScript, React, and Backend architecture.
+- 🔭 **Backend Development:** Currently building systems with **Python** [cite: 2026-02-12].
+- ⚙️ **Frontend Logic:** Managing complex functionality in **app.js** and **React**, ensuring code is only added, never removed, for maximum stability [cite: 2026-02-19].
+- 🌱 **Learning Path:** Expanding knowledge in **Scalable APIs** and Full-stack architecture.
+- 💬 **Ask me about:** Python, JavaScript, and React.
 
 ---
 
 ### 🚀 Technologies & Languages:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,postgres,mongodb,mysql,sqlite,flask,django" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,mysql,sqlite,flask,django" />
 </p>
 
-### 🛠️ Professional Tools & Environment:
+### 🛠️ Developer Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,docker,aws,postman,figma,linux,bash,npm,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman,npm,vercel" />
 </p>
 
 ---
@@ -46,13 +46,6 @@ Hi, I'm **Hasitha Sandaruwan Silva**, a passionate **Full-stack Developer** from
 ### 📈 GitHub Activity:
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&theme=tokyonight&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-### 🐍 Contribution Snake:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hasitha-Sandaruwan-Silva/Hasitha-Sandaruwan-Silva/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
