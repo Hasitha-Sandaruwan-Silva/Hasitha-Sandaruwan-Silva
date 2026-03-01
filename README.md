@@ -16,16 +16,21 @@ Hi, I'm **Hasitha Sandaruwan Silva**, a passionate **Full-stack Developer** from
 
 ---
 
-### 🏆 GitHub Trophies
+### 🚀 Technologies & Languages:
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hasitha-Sandaruwan-Silva&theme=tokyonight&no-bg=true&margin-w=15" alt="Hasitha-Sandaruwan-Silva" /></a>
+  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,postgres,mongodb,mysql,sqlite,flask,django" />
+</p>
+
+### 🛠️ Professional Tools & Environment:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,docker,aws,postman,figma,linux,bash,npm,vercel" />
 </p>
 
 ---
 
-### 💻 Tech Stack:
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,flask,django,html,css,postgres,mongodb,git,vscode,docker,aws,pycharm,figma,postman" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hasitha-Sandaruwan-Silva&theme=tokyonight&no-bg=true&margin-w=15" alt="Hasitha-Sandaruwan-Silva" /></a>
 </p>
 
 ---
