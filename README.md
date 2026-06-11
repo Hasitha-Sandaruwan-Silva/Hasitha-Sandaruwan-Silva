@@ -277,19 +277,7 @@ class HasithaSandaruwan:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=9B7FFF&line=9B7FFF&point=ffffff&area=true&area_color=302b63"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hasitha-Sandaruwan-Silva/Hasitha-Sandaruwan-Silva/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hasitha-Sandaruwan-Silva/Hasitha-Sandaruwan-Silva/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hasitha-Sandaruwan-Silva/Hasitha-Sandaruwan-Silva/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&bg_color=0d1117&color=9B7FFF&line=9B7FFF&point=c3b8ff&area=true&area_color=302b63&hide_border=true&title_color=9B7FFF"/>
 </div>
 
 ---
