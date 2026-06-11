@@ -266,10 +266,10 @@ class HasithaSandaruwan:
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hasitha-Sandaruwan-Silva&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasitha-Sandaruwan-Silva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=c3b8ff&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
 </div>
 
 ---
