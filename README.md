@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2600&pause=800&color=9B7FFF&center=true&vCenter=true&width=750&lines=Building+Mahameruwa+Hotel+Management+System+%F0%9F%8F%A8;Django+REST+%2B+Next.js+14+%2B+React+Developer+%E2%9A%A1;AI-powered+Flutter+%2B+Google+Gemini+Apps+%F0%9F%A4%96;Multi-role+Auth+%7C+OTP+%7C+JWT+%7C+RBAC+%F0%9F%94%90;Java+%26+C%23+Desktop+Application+Builder+%F0%9F%96%A5%EF%B8%8F;NIBM+Software+Engineering+Student+%F0%9F%8E%93;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2600&pause=800&color=9B7FFF&center=true&vCenter=true&width=750&lines=Building+GoviyaNet+Farm-to-Table+Platform+%F0%9F%8C%BE;Spring+Boot+Microservices+%7C+Java+17+%7C+Spring+Cloud+%E2%9A%A1;Django+REST+%2B+Next.js+14+%2B+React+Developer;AI-powered+Flutter+%2B+Google+Gemini+Apps+%F0%9F%A4%96;Multi-role+Auth+%7C+OTP+%7C+JWT+%7C+RBAC+%F0%9F%94%90;NIBM+HND+Software+Engineering+Student+%F0%9F%8E%93;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -42,33 +42,52 @@
 
 ## About Me 🧑‍💻
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360" alt="coding gif"/>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="340" alt="anime coding gif"/>
 
 ```python
 class HasithaSandaruwan:
 
-    name     = "Hasitha Sandaruwan Silva"
-    role     = "Full-Stack Developer"
-    edu      = "NIBM Software Engineering"
-    location = "Sri Lanka 🇱🇰"
+    name       = "Hasitha Sandaruwan Silva"
+    role       = "Full-Stack Developer"
+    edu        = "NIBM HND Software Engineering"
+    location   = "Kurunegala, Sri Lanka 🇱🇰"
+    student_id = "KUHDSE26.1-006"
 
     currently_building = [
-        "Mahameruwa Hotel System",
-        "AI Flutter App (Gemini 2.0)"
+        "GoviyaNet — Farm-to-Table Platform 🌾",
+        "Mahameruwa Hotel System 🏨",
+        "VegiTrack LK — Price Intelligence 📊"
     ]
 
     stack = {
-        "backend":   ["Python", "Django REST", "Java", "C#", "PHP"],
-        "frontend":  ["Next.js 14", "React", "TypeScript", "Tailwind"],
-        "mobile":    ["Flutter"],
-        "databases": ["MySQL", "MSSQL", "SQLite"],
-        "tools":     ["Git", "Postman", "Maven", "Android Studio"]
+        "backend":       ["Python", "Django REST", "Java", "Spring Boot", "C#", "PHP"],
+        "frontend":      ["Next.js 14", "React", "TypeScript", "Tailwind", "Vite"],
+        "mobile":        ["Flutter"],
+        "microservices": ["Spring Cloud", "ActiveMQ", "API Gateway", "JWT"],
+        "databases":     ["MySQL", "MSSQL", "SQLite"],
+        "ai_ml":         ["Google Gemini 2.0", "FastAPI", "scikit-learn"],
+        "tools":         ["Git", "Postman", "Maven", "IntelliJ", "Android Studio"]
     }
 
     open_to = ["collaborations", "open source", "internships"]
+    fun_fact = "I build with AI, for real people 🚀"
 ```
 
 <br clear="right"/>
+
+---
+
+## 🔥 Currently Working On
+
+<div align="center">
+
+| Project | Stack | Status |
+|:---|:---|:---:|
+| 🌾 **GoviyaNet** — Farm-to-Table Market | Spring Boot · Java 17 · Spring Cloud · MySQL · ActiveMQ | 🚧 Active |
+| 🏨 **Mahameruwa** — Hotel Management System | Django REST · Next.js 14 · React · JWT | 🚧 Active |
+| 📊 **VegiTrack LK** — Vegetable Price Intelligence | FastAPI · Flutter · scikit-learn · CBSL Data | 🚧 Active |
+
+</div>
 
 ---
 
@@ -82,7 +101,7 @@ class HasithaSandaruwan:
 
 **⚙️ Backend**
 
-[![Backend](https://skillicons.dev/icons?i=python,django,php,java,cs&perline=8)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=python,django,php,java,spring,cs&perline=8)](https://skillicons.dev)
 
 **🗄️ Databases**
 
@@ -90,7 +109,7 @@ class HasithaSandaruwan:
 
 **🔧 Tools & Platforms**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,maven,androidstudio&perline=8)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,maven,androidstudio,idea,figma&perline=8)](https://skillicons.dev)
 
 ---
 
@@ -102,6 +121,28 @@ class HasithaSandaruwan:
 <tr>
 <td width="50%" valign="top">
 
+### 🌾 GoviyaNet — Farm-to-Table Platform
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Java 17](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React+Vite-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+> Direct market platform connecting farmers & buyers
+
+```
+🏗️ Arch    → 7 Spring Boot Microservices
+🔐 Auth    → JWT · Spring Security · RBAC
+📨 Msg     → ActiveMQ message broker
+🌐 Gateway → Spring Cloud API Gateway
+⚛️ Frontend→ React + Vite + TypeScript
+              + shadcn/ui
+```
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/Hasitha-Sandaruwan-Silva/goviyanet)
+
+</td>
+<td width="50%" valign="top">
+
 ### 🏨 Mahameruwa Hotel System
 ![Django](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -109,17 +150,39 @@ class HasithaSandaruwan:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 
-> 🏆 Real-world multi-role hotel platform with Sinhala language support
+> Real-world multi-role hotel platform with Sinhala language support
 
 ```
 👥 Roles    → Manager · Waiter · Receptionist
-             Barman · Accountant · Chef
+              Barman · Accountant · Chef
 🔐 Auth     → OTP login · JWT · RBAC
 📦 Features → Inventory · Attendance
-             Finance CSV · Guest history
+              Finance CSV · Guest history
 🌐 Stack    → Next.js 14 + React + Django
 ```
 [![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/Hasitha-Sandaruwan-Silva/mahameruwa)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 VegiTrack LK — Price Intelligence
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+> Sri Lanka vegetable price intelligence using CBSL data
+
+```
+📈 Models  → Linear Regression + Random Forest
+              R² ~ 0.95 accuracy
+📄 Data    → CBSL PDF extraction (pdfplumber)
+📱 Mobile  → Flutter app (Android)
+⚡ Backend → FastAPI + pandas
+```
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/Hasitha-Sandaruwan-Silva/vegitrack-lk)
 
 </td>
 <td width="50%" valign="top">
@@ -134,7 +197,7 @@ class HasithaSandaruwan:
 
 ```
 🤖 AI      → Google Gemini 2.0 Flash
-             Person segmentation
+              Person segmentation
 📱 Mobile  → Flutter (Android)
 ⚡ Backend → FastAPI image processing
 🎨 Effect  → Creative text-behind-person
@@ -160,43 +223,6 @@ class HasithaSandaruwan:
 🔧 Admin    → Full CRUD · Image upload
 ```
 [![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/Hasitha-Sandaruwan-Silva/glow-beauty)
-
-</td>
-<td width="50%" valign="top">
-
-### ☕ Cafe Management System
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-
-> Desktop-based order and billing management for a cafe
-
-```
-📋 Features → Menu · Orders · Billing
-              Stock control
-🏗️ Pattern  → MVC · Maven (com.cafe.*)
-🖥️ Tech     → Java Swing · MySQL 8.0.33
-```
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/Hasitha-Sandaruwan-Silva/cafe-management)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 Crypto Portfolio System
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-> Track and manage cryptocurrency portfolios
-
-```
-📋 Features → Portfolio tracking
-              Transaction history
-🏗️ Pattern  → MVC Architecture · Maven
-```
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github)](https://github.com/Hasitha-Sandaruwan-Silva/crypto-portfolio)
 
 </td>
 <td width="50%" valign="top">
