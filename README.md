@@ -181,5 +181,4 @@ Mobile-first design
   <a href="https://github.com/Hasitha-Sandaruwan-Silva">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>  &nbs
-(Content truncated due to size limit. Use line ranges to read remaining content )
-How to Make a Unique README for a Git Project - Manus
+
