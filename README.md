@@ -1,184 +1,238 @@
 
-<!-- ============ ANIMATED HEADER ============ --> <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,25:1a1040,50:302b63,75:1a1040,100:0f0c29&height=300&section=header&text=Hasitha%20Sandaruwan%20Silva&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Software%20Engineer&descSize=18&descAlignY=62&descColor=B8A8FF&stroke=7B5EA7&strokeWidth=2" width="100%"/>
-</div> <!-- ============ STATUS BADGES ============ --> <div align="center">   <img src="https://img.shields.io/badge/Status-Available%20for%20Work-9B7FFF?style=for-the-badge&labelColor=0D1117" />
+<!-- ============ ANIMATED HEADER ============ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,25:1a1040,50:302b63,75:1a1040,100:0f0c29&height=300&section=header&text=Hasitha%20Sandaruwan%20Silva&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Software%20Engineer&descSize=18&descAlignY=62&descColor=B8A8FF&stroke=7B5EA7&strokeWidth=2" width="100%"/>
+</div>
+
+<!-- ============ STATUS BADGES ============ -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-9B7FFF?style=for-the-badge&labelColor=0D1117" />
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI-7B5EA7?style=for-the-badge&labelColor=0D1117" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Sri%20Lanka%20🇱🇰-302b63?style=for-the-badge&labelColor=0D1117" /> </div> <!-- ============ ANIMATED TYPING ============ --> <div align="center">
+  <img src="https://img.shields.io/badge/Location-Sri%20Lanka%20🇱🇰-302b63?style=for-the-badge&labelColor=0D1117" />
+</div>
+
+<!-- ============ ANIMATED TYPING ============ -->
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=9B7FFF&center=true&vCenter=true&width=800&lines=Spring+Boot+%E2%80%A2+Django+%E2%80%A2+Next.js+%E2%80%A2+Flutter;Building+Scalable+%26+Intelligent+Applications;Microservices+Architecture+%7C+AI+Integration;Crafting+Code+with+Purpose+%26+Precision" alt="Typing SVG"/>
-</div>   
+</div>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32"/> Hi, I'm Hasitha Sandaruwan Silva
+
 I'm a passionate Software Engineer with a focus on Full-Stack Development, Microservices Architecture, and AI Integration. My main stack includes Java Spring Boot, Django REST, Next.js, and Flutter, but I also explore FastAPI, React, and modern AI frameworks to deliver scalable and intelligent solutions.
+
 I enjoy building applications that are not only functional and visually polished but also secure, scalable, and impactful. Currently, I'm deepening my knowledge in microservices architecture, AI-powered applications, and production-grade backend systems, preparing myself to become a full-stack Software Engineer with AI and system design expertise.
 
-<!-- ============ QUICK INFO ============ --> <div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="22"/> Education
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Round%20Pushpin.png" width="22"/> Location
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="22"/> Open To
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="22"/> Currently
-NIBM HND Software Engineering
-Kurunegala, Sri Lanka
-Internships & Freelance
-Building Microservices
-</div>
-<!-- ============ ANIMATED LINE ============ --> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>   
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28"/> What I'm Working On
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sheaf%20of%20Rice.png" width="18"/> Building GoviyaNet — a farm-to-table platform with 7 Spring Boot microservices
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hotel.png" width="18"/> Developing Mahameruwa — a multi-role hotel management system with Django REST + Next.js 14
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="18"/> Researching ML models for price prediction (98.7% R² achieved on VegiTrack LK )
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="18"/> Exploring AI integration using Google Gemini 2.0 for creative mobile apps
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="18"/> Strengthening backend security with JWT, OAuth2, and Spring Security RBAC
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="18"/> Designing scalable database architectures with MySQL and message brokers
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" width="28"/> Let's Talk About
-Backend Architecture • Microservices Design • API Development • AI-Powered Solutions • Modern Web & Mobile Apps • Clean Code Practices
-
-<!-- ============ ANIMATED LINE ============ --> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>   
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28"/> Skills
+<!-- ============ QUICK INFO ============ -->
 <div align="center">
-Backend
-Frontend
-Mobile
-AI / ML
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" title="Next.js"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="42" title="Flutter"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="42" title="Spring Boot"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" title="React"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="42" title="Dart"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" title="FastAPI"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="42" title="Django"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" title="TypeScript"/>
-﻿
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42" title="scikit-learn"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" title="C#"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" title="Tailwind CSS"/>
-﻿
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" title="Pandas"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" title="PHP"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" title="HTML5"/>
-﻿
-﻿
+  <p>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="22"/> **Education:** NIBM HND Software Engineering
+    <br>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Round%20Pushpin.png" width="22"/> **Location:** Kurunegala, Sri Lanka
+    <br>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="22"/> **Open To:** Internships & Freelance
+    <br>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="22"/> **Currently:** Building Microservices
+  </p>
 </div>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="28"/> Tools
+<!-- ============ ANIMATED LINE ============ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28"/> **What I'm Working On**
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sheaf%20of%20Rice.png" width="18"/> Building GoviyaNet — a farm-to-table platform with 7 Spring Boot microservices
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hotel.png" width="18"/> Developing Mahameruwa — a multi-role hotel management system with Django REST + Next.js 14
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="18"/> Researching ML models for price prediction (98.7% R² achieved on VegiTrack LK )
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="18"/> Exploring AI integration using Google Gemini 2.0 for creative mobile apps
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="18"/> Strengthening backend security with JWT, OAuth2, and Spring Security RBAC
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="18"/> Designing scalable database architectures with MySQL and message brokers
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" width="28"/> **Let's Talk About**
+
+- Backend Architecture
+- Microservices Design
+- API Development
+- AI-Powered Solutions
+- Modern Web & Mobile Apps
+- Clean Code Practices
+
+<!-- ============ ANIMATED LINE ============ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28"/> **Skills**
+
 <div align="center">
-Development
-Database
-DevOps
-Design
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="42" title="IntelliJ IDEA"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" title="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" title="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" title="Figma"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" title="VS Code"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42" title="SQLite"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git"/>
-﻿
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="42" title="Maven"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="42" title="MSSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" title="GitHub"/>
-﻿
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42" title="Postman"/>
-﻿
-﻿
-﻿
-</div>
-<!-- ============ ANIMATED LINE ============ --> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>   
+  <h3>Backend</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="42" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="42" title="Django"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" title="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" title="C#"/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28"/> Featured Projects
+  <h3>Frontend</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" title="HTML5"/>
+
+  <h3>Mobile</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="42" title="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="42" title="Dart"/>
+
+  <h3>AI / ML</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42" title="scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" title="Pandas"/>
+</div>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="28"/> **Tools**
+
+<div align="center">
+  <h3>Development</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="42" title="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="42" title="Maven"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42" title="Postman"/>
+
+  <h3>Database</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42" title="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="42" title="MSSQL"/>
+
+  <h3>DevOps</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" title="GitHub"/>
+
+  <h3>Design</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" title="Figma"/>
+</div>
+
+<!-- ============ ANIMATED LINE ============ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28"/> **Featured Projects**
+
 <table>
-<tr>
-<td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sheaf%20of%20Rice.png" width="22"/> GoviyaNet
-Farm-to-Table Market Platform
-Spring Boot Java 17 React Microservices
-7-microservice architecture
-JWT + Spring Security + RBAC
-ActiveMQ message broker
-Spring Cloud Gateway
-</td>
-<td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hotel.png" width="22"/> Mahameruwa
-Hotel Management System
-Django REST Next.js 14 TypeScript
-6 user roles with RBAC
-OTP-based authentication
-Inventory + Finance modules
-Sinhala language support
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="22"/> VegiTrack LK
-Vegetable Price Intelligence
-FastAPI Flutter scikit-learn
-ML model with 98.7% R² accuracy
-4,704+ CBSL records
-Flutter mobile app
-Dockerized backend
-</td>
-<td width="50%" valign="top">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="22"/> Text Behind Person
-AI Creative Photo Editor
-Flutter Gemini 2.0 FastAPI
-AI-powered text placement
-Person segmentation
-Social media ready outputs
-Mobile-first design
-</td>
-</tr>
-</table>   
- <!-- ============ ANIMATED LINE ============ --> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>   
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sheaf%20of%20Rice.png" width="22"/> **GoviyaNet**
+      <br>Farm-to-Table Market Platform
+      <br>Spring Boot | Java 17 | React | Microservices
+      <ul>
+        <li>7-microservice architecture</li>
+        <li>JWT + Spring Security + RBAC</li>
+        <li>ActiveMQ message broker</li>
+        <li>Spring Cloud Gateway</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hotel.png" width="22"/> **Mahameruwa**
+      <br>Hotel Management System
+      <br>Django REST | Next.js 14 | TypeScript
+      <ul>
+        <li>6 user roles with RBAC</li>
+        <li>OTP-based authentication</li>
+        <li>Inventory + Finance modules</li>
+        <li>Sinhala language support</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="22"/> **VegiTrack LK**
+      <br>Vegetable Price Intelligence
+      <br>FastAPI | Flutter | scikit-learn
+      <ul>
+        <li>ML model with 98.7% R² accuracy</li>
+        <li>4,704+ CBSL records</li>
+        <li>Flutter mobile app</li>
+        <li>Dockerized backend</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="22"/> **Text Behind Person**
+      <br>AI Creative Photo Editor
+      <br>Flutter | Gemini 2.0 | FastAPI
+      <ul>
+        <li>AI-powered text placement</li>
+        <li>Person segmentation</li>
+        <li>Social media ready outputs</li>
+        <li>Mobile-first design</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"/> GitHub Statistics
+<!-- ============ ANIMATED LINE ============ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"/> **GitHub Statistics**
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hasitha-Sandaruwan-Silva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=ffffff&border_radius=12&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hasitha-Sandaruwan-Silva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=ffffff&border_radius=12&count_private=true" height="170"/>
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasitha-Sandaruwan-Silva&theme=tokyonight&hide_border=true&background=0D1117&stroke=9B7FFF&ring=9B7FFF&fire=9B7FFF&currStreakLabel=9B7FFF&border_radius=12" height="170"/>
-</div>   
- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Sandaruwan-Silva&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B7FFF&text_color=ffffff&border_radius=12&langs_count=8" height="200"/>
-</div>   
- <!-- ============ ACTIVITY STATUS / CONTRIBUTION GRAPH ============ -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" width="28"/> Activity Status
-<div align="center"> <!-- Yearly Contribution Calendar --> <a href="https://github.com/Hasitha-Sandaruwan-Silva">
-<img src="https://ghchart.rshah.org/9B7FFF/Hasitha-Sandaruwan-Silva" alt="Hasitha's GitHub Contribution Chart" width="100%"/>
-</a> </div>   
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="28"/> Contribution Activity Graph
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&theme=tokyo-night&hide_border=true&area=true&radius=12&bg_color=0D1117&color=9B7FFF&line=9B7FFF&point=ffffff&custom_title=Contribution%20Trend%20Over%20Time" width="100%"/>
-</div>   
- <!-- ============ SNAKE ANIMATION ============ -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28"/> Contribution Snake
-<div align="center">
-<img src="https://raw.githubusercontent.com/Hasitha-Sandaruwan-Silva/Hasitha-Sandaruwan-Silva/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-</div>   
- <!-- ============ STATUS BAR / WEEKLY BREAKDOWN ============ -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hourglass%20Not%20Done.png" width="28"/> Weekly Development Breakdown
-<div align="center">
-☕ Java         ████████████████░░░░░░░░░░   38.5%
-🐍 Python       ██████████████░░░░░░░░░░░░   28.2%
-🔷 TypeScript   ██████████░░░░░░░░░░░░░░░░   16.4%
-🎯 Dart         ███████░░░░░░░░░░░░░░░░░░░   10.6%
-🗄️ SQL          ████░░░░░░░░░░░░░░░░░░░░░░    6.3%
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Sandaruwan-Silva&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B7FFF&text_color=ffffff&border_radius=12&langs_count=8" height="200"/>
+</div>
+
+<!-- ============ ACTIVITY STATUS / CONTRIBUTION GRAPH ============ -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" width="28"/> **Activity Status**
+
+<div align="center">
+  <a href="https://github.com/Hasitha-Sandaruwan-Silva">
+    <img src="https://ghchart.rshah.org/9B7FFF/Hasitha-Sandaruwan-Silva" alt="Hasitha's GitHub Contribution Chart" width="100%"/>
+  </a>
+</div>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="28"/> **Contribution Activity Graph**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&theme=tokyo-night&hide_border=true&area=true&radius=12&bg_color=0D1117&color=9B7FFF&line=9B7FFF&point=ffffff&custom_title=Contribution%20Trend%20Over%20Time" width="100%"/>
+</div>
+
+<!-- ============ SNAKE ANIMATION ============ -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28"/> **Contribution Snake**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Hasitha-Sandaruwan-Silva/Hasitha-Sandaruwan-Silva/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</div>
+
+<!-- ============ STATUS BAR / WEEKLY BREAKDOWN ============ -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hourglass%20Not%20Done.png" width="28"/> **Weekly Development Breakdown**
+
+<div align="center">
+  <pre>
+    ☕ Java         ████████████████░░░░░░░░░░   38.5%
+    🐍 Python       ██████████████░░░░░░░░░░░░   28.2%
+    🔷 TypeScript   ██████████░░░░░░░░░░░░░░░░   16.4%
+    🎯 Dart         ███████░░░░░░░░░░░░░░░░░░░   10.6%
+    🗄️ SQL          ████░░░░░░░░░░░░░░░░░░░░░░    6.3%
+  </pre>
+</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hasitha-Sandaruwan-Silva&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B7FFF&text_color=ffffff&border_radius=12&layout=compact" width="80%"/>
-</div>   
- <!-- ============ ANIMATED LINE ============ --> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>   
+</div>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="28"/> Connect With Me
-<div align="center">   <a href="https://linkedin.com/in/hasitha-sandaruwan-a5a68b374">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<!-- ============ ANIMATED LINE ============ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="28"/> **Connect With Me**
+
+<div align="center">
+  <a href="https://linkedin.com/in/hasitha-sandaruwan-a5a68b374">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/Hasitha-Sandaruwan-Silva">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>  &nbs
-
+  </a>
+</div>
