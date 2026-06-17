@@ -1,27 +1,23 @@
-<!-- ============ ANIMATED HEADER ============ --><div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,25:1a1040,50:302b63,75:1a1040,100:0f0c29&height=300&section=header&text=Hasitha%20Sandaruwan%20Silva&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Software%20Engineer&descSize=18&descAlignY=62&descColor=B8A8FF&stroke=7B5EA7&strokeWidth=2" width="100%"/> </div><!-- ============ STATUS BADGES ============ --><div align="center"> <img src="https://img.shields.io/badge/Status-Available%20for%20Work-9B7FFF?style=for-the-badge&labelColor=0D1117" /> &nbsp; <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI-7B5EA7?style=for-the-badge&labelColor=0D1117" /> &nbsp; <img src="https://img.shields.io/badge/Location-Sri%20Lanka%20🇱🇰-302b63?style=for-the-badge&labelColor=0D1117" /> </div><!-- ============ ANIMATED TYPING ============ --><div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=9B7FFF&center=true&vCenter=true&width=800&lines=Spring+Boot+%E2%80%A2+Django+%E2%80%A2+Next.js+%E2%80%A2+Flutter;Building+Scalable+%26+Intelligent+Applications;Microservices+Architecture+%7C+AI+Integration;Crafting+Code+with+Purpose+%26+Precision" alt="Typing SVG"/> </div>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32"/> Hi, I'm Hasitha Sandaruwan Silva
+<!-- ============ SIMPLE HEADER ============ -->
 
-I'm a passionate Software Engineer with a focus on Full-Stack Development, Microservices Architecture, and AI Integration. My main stack includes Java Spring Boot, Django REST, Next.js, and Flutter, but I also explore FastAPI, React, and modern AI frameworks to deliver scalable and intelligent solutions.
+# `Hasitha-Sandaruwan-Silva` / `README.md`
 
-I enjoy building applications that are not only functional and visually polished but also secure, scalable, and impactful. Currently, I'm deepening my knowledge in microservices architecture, AI-powered applications, and production-grade backend systems, preparing myself to become a full-stack Software Engineer with AI and system design expertise.
+---
 
-<!-- ============ QUICK INFO ============ --><div align="center"> <p> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="22"/> **Education:** NIBM HND Software Engineering <br> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Round%20Pushpin.png" width="22"/> **Location:** Kurunegala, Sri Lanka <br> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="22"/> **Open To:** Internships & Freelance <br> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="22"/> **Currently:** Building Microservices </p> </div><!-- ============ ANIMATED LINE ============ --><img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28"/> What I'm Working On
+## 🪄 About Me:
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sheaf%20of%20Rice.png" width="18"/> Building GoviyaNet — a farm-to-table platform with 7 Spring Boot microservices
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hotel.png" width="18"/> Developing Mahameruwa — a multi-role hotel management system with Django REST + Next.js 14
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="18"/> Researching ML models for price prediction (98.7% R² achieved on VegiTrack LK )
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="18"/> Exploring AI integration using Google Gemini 2.0 for creative mobile apps
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="18"/> Strengthening backend security with JWT, OAuth2, and Spring Security RBAC
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="18"/> Designing scalable database architectures with MySQL and message brokers
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" width="28"/> Let's Talk About
+Passionate **Software Engineer** focused on **Full-Stack Development**, **Microservices Architecture**, and **AI Integration**. My main stack includes **Java Spring Boot**, **Django REST**, **Next.js**, and **Flutter**, while exploring **FastAPI**, **React**, and modern AI frameworks to build scalable and intelligent solutions.
 
-Backend Architecture
-Microservices Design
-API Development
-AI-Powered Solutions
-Modern Web & Mobile Apps
-Clean Code Practices
+Currently deepening my expertise in microservices, AI-powered applications, and production-grade backend systems — on the path to becoming a complete Full-Stack Software Engineer with strong system design intuition.
+
+---
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasitha-sandaruwan-a5a68b374)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasitha-Sandaruwan-Silva)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
 
 <!-- ============ ANIMATED LINE ============ -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
