@@ -1,6 +1,3 @@
-# `Hasitha-Sandaruwan-Silva` / `README.md`
-
----
 
 ## 🪄 About Me:
 
