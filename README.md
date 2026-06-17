@@ -111,15 +111,17 @@ I love building applications that are **functional**, **secure**, and **scalable
 </a>
 ---
 
-## 📊 387 Contributions in the Last Year
+---
+
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/9B7FFF/Hasitha-Sandaruwan-Silva" alt="Contribution Calendar" width="100%"/>
-
-<p align="right"><sub>Less ⬜ 🟪 🟪 🟪 🟪 More</sub></p>
+<img src="https://github-profile-trophy.vercel.app/?username=Hasitha-Sandaruwan-Silva&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
 
 </div>
+
+---
 
 <br/>
 
