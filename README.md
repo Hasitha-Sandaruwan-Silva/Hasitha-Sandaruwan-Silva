@@ -1,21 +1,18 @@
-<!-- ============ SIMPLE HEADER ============ -->
+<!-- ============ HEADER ============ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:9B7FFF&height=180&section=header&text=Hasitha%20Sandaruwan%20Silva&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:9B7FFF&height=160&section=header&text=Hasitha%20Sandaruwan%20Silva&fontSize=38&fontColor=ffffff&fontAlignY=42" width="100%"/>
 </div>
 
-<!-- ============ TYPING ============ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=9B7FFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%C2%B7+AI+Enthusiast;Spring+Boot+%C2%B7+Django+%C2%B7+Next.js+%C2%B7+Flutter;Building+Scalable+%26+Intelligent+Applications" alt="Typing SVG"/>
+
+### Full-Stack Developer · AI Enthusiast · Software Engineer
+
+![Status](https://img.shields.io/badge/Available_for_Work-9B7FFF?style=flat-square&labelColor=0D1117)
+![Focus](https://img.shields.io/badge/Full--Stack_%26_AI-7B5EA7?style=flat-square&labelColor=0D1117)
+![Location](https://img.shields.io/badge/Sri_Lanka_🇱🇰-302b63?style=flat-square&labelColor=0D1117)
+
 </div>
 
-<!-- ============ STATUS ============ -->
-<div align="center">
-  
-  ![Status](https://img.shields.io/badge/Available_for_Work-9B7FFF?style=flat-square&labelColor=0D1117)
-  ![Focus](https://img.shields.io/badge/Full--Stack_%26_AI-7B5EA7?style=flat-square&labelColor=0D1117)
-  ![Location](https://img.shields.io/badge/Sri_Lanka_🇱🇰-302b63?style=flat-square&labelColor=0D1117)
-  
-</div>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32"/> Hi, I'm Hasitha Sandaruwan Silva
 
 I'm a passionate Software Engineer with a focus on Full-Stack Development, Microservices Architecture, and AI Integration. My main stack includes Java Spring Boot, Django REST, Next.js, and Flutter, but I also explore FastAPI, React, and modern AI frameworks to deliver scalable and intelligent solutions.
