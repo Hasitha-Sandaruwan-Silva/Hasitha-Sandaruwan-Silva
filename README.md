@@ -1,62 +1,40 @@
-
-<!-- ============ ANIMATED HEADER ============ -->
+<!-- ============ MODERN HEADER WITH GRADIENT ============ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,25:1a1040,50:302b63,75:1a1040,100:0f0c29&height=300&section=header&text=Hasitha%20Sandaruwan%20Silva&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Software%20Engineer&descSize=18&descAlignY=62&descColor=B8A8FF&stroke=7B5EA7&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:9B7FFF&height=220&section=header&text=Hasitha%20Sandaruwan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20Engineer&descSize=18&descAlignY=60&descColor=E0D4FF" width="100%"/>
 </div>
 
-<!-- ============ STATUS BADGES ============ -->
+<!-- ============ TYPING ANIMATION ============ -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-9B7FFF?style=for-the-badge&labelColor=0D1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%26%20AI-7B5EA7?style=for-the-badge&labelColor=0D1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Sri%20Lanka%20🇱🇰-302b63?style=for-the-badge&labelColor=0D1117" />
+  <a href="https://github.com/Hasitha-Sandaruwan-Silva">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=9B7FFF&center=true&vCenter=true&width=720&lines=%7B+%22role%22%3A+%22Software+Engineer%22+%7D;%3C+Spring+Boot+%C2%B7+Django+%C2%B7+Next.js+%C2%B7+Flutter+%2F%3E;%23+Building+Scalable+%26+Intelligent+Systems;%24+sudo+craft+--with-purpose" alt="Typing Animation"/>
+  </a>
 </div>
 
-<!-- ============ ANIMATED TYPING ============ -->
+<br/>
+
+<!-- ============ STATUS PILLS ============ -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=9B7FFF&center=true&vCenter=true&width=800&lines=Spring+Boot+%E2%80%A2+Django+%E2%80%A2+Next.js+%E2%80%A2+Flutter;Building+Scalable+%26+Intelligent+Applications;Microservices+Architecture+%7C+AI+Integration;Crafting+Code+with+Purpose+%26+Precision" alt="Typing SVG"/>
+  <img src="https://img.shields.io/badge/🟢_Available_for_Work-9B7FFF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/⚡_Full--Stack_%26_AI-7B5EA7?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/🇱🇰_Sri_Lanka-302b63?style=for-the-badge&labelColor=0D1117"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32"/> Hi, I'm Hasitha Sandaruwan Silva
+<br/>
 
-I'm a passionate Software Engineer with a focus on Full-Stack Development, Microservices Architecture, and AI Integration. My main stack includes Java Spring Boot, Django REST, Next.js, and Flutter, but I also explore FastAPI, React, and modern AI frameworks to deliver scalable and intelligent solutions.
+<!-- ============ ABOUT ME CARD ============ -->
+<table align="center" width="100%">
+<tr>
+<td width="65%" valign="top">
 
-I enjoy building applications that are not only functional and visually polished but also secure, scalable, and impactful. Currently, I'm deepening my knowledge in microservices architecture, AI-powered applications, and production-grade backend systems, preparing myself to become a full-stack Software Engineer with AI and system design expertise.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28"/> About Me
 
-<!-- ============ QUICK INFO ============ -->
-<div align="center">
-  <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="22"/> **Education:** NIBM HND Software Engineering
-    <br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Round%20Pushpin.png" width="22"/> **Location:** Kurunegala, Sri Lanka
-    <br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="22"/> **Open To:** Internships & Freelance
-    <br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="22"/> **Currently:** Building Microservices
-  </p>
-</div>
-
-<!-- ============ ANIMATED LINE ============ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28"/> **What I'm Working On**
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sheaf%20of%20Rice.png" width="18"/> Building GoviyaNet — a farm-to-table platform with 7 Spring Boot microservices
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hotel.png" width="18"/> Developing Mahameruwa — a multi-role hotel management system with Django REST + Next.js 14
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="18"/> Researching ML models for price prediction (98.7% R² achieved on VegiTrack LK )
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="18"/> Exploring AI integration using Google Gemini 2.0 for creative mobile apps
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="18"/> Strengthening backend security with JWT, OAuth2, and Spring Security RBAC
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="18"/> Designing scalable database architectures with MySQL and message brokers
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" width="28"/> **Let's Talk About**
-
-- Backend Architecture
-- Microservices Design
-- API Development
-- AI-Powered Solutions
-- Modern Web & Mobile Apps
-- Clean Code Practices
+```yaml
+name:       Hasitha Sandaruwan Silva
+role:       Software Engineer
+focus:      [ Full-Stack, Microservices, AI Integration ]
+stack:      [ Spring Boot, Django, Next.js, Flutter ]
+exploring:  [ FastAPI, AI Frameworks, System Design ]
+mindset:    "Build secure, scalable, impactful software"
 
 <!-- ============ ANIMATED LINE ============ -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
