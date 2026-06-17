@@ -111,18 +111,11 @@ I love building applications that are **functional**, **secure**, and **scalable
 </a>
 
 </div>
-## 💭 Random Dev Wisdom
+## 📊 My GitHub Universe
 
 <div align="center">
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="80%"/>
-  
-  <br><br>
-  
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true&bgColor=0D1117&textColor=9B7FFF" alt="Random Dev Joke" width="80%"/>
-
+  <img src="https://metrics.lecoq.io/Hasitha-Sandaruwan-Silva?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip.orgs=false&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FColombo" alt="GitHub Metrics" width="100%"/>
 </div>
-
 <!-- ============ STATUS BAR / WEEKLY BREAKDOWN ============ -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hourglass%20Not%20Done.png" width="28"/> **Weekly Development Breakdown**
 
