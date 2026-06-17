@@ -111,10 +111,12 @@ I love building applications that are **functional**, **secure**, and **scalable
 </a>
 
 </div>
-## 📊 My GitHub Universe
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/Hasitha-Sandaruwan-Silva?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip.orgs=false&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FColombo" alt="GitHub Metrics" width="100%"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Hasitha-Sandaruwan-Silva&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews,MultipleLang" alt="GitHub Trophies"/>
+  </a>
 </div>
 <!-- ============ STATUS BAR / WEEKLY BREAKDOWN ============ -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hourglass%20Not%20Done.png" width="28"/> **Weekly Development Breakdown**
