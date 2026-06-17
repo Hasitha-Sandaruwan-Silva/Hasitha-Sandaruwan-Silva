@@ -99,32 +99,17 @@ I love building applications that are **functional**, **secure**, and **scalable
 <a href="https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=GoviyaNet&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=ffffff&border_color=30363d&border_radius=8" />
 </a>
-<a href="https://github.com/Hasitha-Sandaruwan-Silva/Mahameruwa">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=Mahameruwa&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=ffffff&border_color=30363d&border_radius=8" />
+<a href="https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet-Frontend">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=GoviyaNet-Frontend&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=ffffff&border_color=30363d&border_radius=8" />
 </a>
 
-<a href="https://github.com/Hasitha-Sandaruwan-Silva/VegiTrack-LK">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=VegiTrack-LK&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=ffffff&border_color=30363d&border_radius=8" />
+<a href="https://github.com/Hasitha-Sandaruwan-Silva/Mahameruwan_Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=Mahameruwan_Project&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=ffffff&border_color=30363d&border_radius=8" />
 </a>
-<a href="https://github.com/Hasitha-Sandaruwan-Silva/Text-Behind-Person">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=Text-Behind-Person&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=ffffff&border_color=30363d&border_radius=8" />
+<a href="https://github.com/Hasitha-Sandaruwan-Silva/VegiTrackLK">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=VegiTrackLK&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=ffffff&border_color=30363d&border_radius=8" />
 </a>
 
-</div>
-
-<!-- ============ ANIMATED LINE ============ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"/> **GitHub Statistics**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasitha-Sandaruwan-Silva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=ffffff&border_radius=12&count_private=true" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasitha-Sandaruwan-Silva&theme=tokyonight&hide_border=true&background=0D1117&stroke=9B7FFF&ring=9B7FFF&fire=9B7FFF&currStreakLabel=9B7FFF&border_radius=12" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Sandaruwan-Silva&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B7FFF&text_color=ffffff&border_radius=12&langs_count=8" height="200"/>
 </div>
 
 <!-- ============ ACTIVITY STATUS / CONTRIBUTION GRAPH ============ -->
