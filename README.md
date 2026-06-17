@@ -111,17 +111,16 @@ I love building applications that are **functional**, **secure**, and **scalable
 </a>
 
 </div>
-
-## 🌐 3D Contribution Globe
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Hasitha-Sandaruwan-Silva/Hasitha-Sandaruwan-Silva/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph"/>
-</div>
-<!-- ============ SNAKE ANIMATION ============ -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28"/> **Contribution Snake**
+## 💭 Random Dev Wisdom
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hasitha-Sandaruwan-Silva/Hasitha-Sandaruwan-Silva/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="80%"/>
+  
+  <br><br>
+  
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true&bgColor=0D1117&textColor=9B7FFF" alt="Random Dev Joke" width="80%"/>
+
 </div>
 
 <!-- ============ STATUS BAR / WEEKLY BREAKDOWN ============ -->
