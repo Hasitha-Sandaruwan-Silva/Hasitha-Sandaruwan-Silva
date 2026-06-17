@@ -109,43 +109,49 @@ I love building applications that are **functional**, **secure**, and **scalable
 <a href="https://github.com/Hasitha-Sandaruwan-Silva/VegiTrackLK">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=VegiTrackLK&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=ffffff&border_color=30363d&border_radius=8" />
 </a>
+---
 
-</div>
-## 🏆 Achievements
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hasitha-Sandaruwan-Silva&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews,MultipleLang" alt="GitHub Trophies"/>
-  </a>
-</div>
-<!-- ============ STATUS BAR / WEEKLY BREAKDOWN ============ -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hourglass%20Not%20Done.png" width="28"/> **Weekly Development Breakdown**
+## 📊 387 Contributions in the Last Year
 
 <div align="center">
-  <pre>
-    ☕ Java         ████████████████░░░░░░░░░░   38.5%
-    🐍 Python       ██████████████░░░░░░░░░░░░   28.2%
-    🔷 TypeScript   ██████████░░░░░░░░░░░░░░░░   16.4%
-    🎯 Dart         ███████░░░░░░░░░░░░░░░░░░░   10.6%
-    🗄️ SQL          ████░░░░░░░░░░░░░░░░░░░░░░    6.3%
-  </pre>
+
+<img src="https://ghchart.rshah.org/9B7FFF/Hasitha-Sandaruwan-Silva" alt="Contribution Calendar" width="100%"/>
+
+<p align="right"><sub>Less ⬜ 🟪 🟪 🟪 🟪 More</sub></p>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hasitha-Sandaruwan-Silva&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9B7FFF&text_color=ffffff&border_radius=12&layout=compact" width="80%"/>
-</div>
+<br/>
 
-<!-- ============ ANIMATED LINE ============ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+<table width="100%">
+<tr>
+<td valign="top" width="55%">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="28"/> **Connect With Me**
+### 🗂️ Activity Overview
 
-<div align="center">
-  <a href="https://linkedin.com/in/hasitha-sandaruwan-a5a68b374">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Hasitha-Sandaruwan-Silva">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+**📦 Contributed to**
+
+🌾 [Hasitha-Sandaruwan-Silva/GoviyaNet](https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet),<br>
+🎨 [Hasitha-Sandaruwan-Silva/GoviyaNet-Frontend](https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet-Frontend),<br>
+🏨 [Hasitha-Sandaruwan-Silva/Mahameruwan_Project](https://github.com/Hasitha-Sandaruwan-Silva/Mahameruwan_Project)<br>
+<sub>and 2 other repositories</sub>
+
+</td>
+<td valign="top" width="45%">
+
+### 📈 Contribution Breakdown
+            Code review
+                │
+                │
+   88% ─────────┼───────── Issues
+ Commits        │
+                │
+            12% │
+        Pull requests
+
+
+        
+</td>
+</tr>
+</table>
+
