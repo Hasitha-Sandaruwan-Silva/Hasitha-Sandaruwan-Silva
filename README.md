@@ -112,21 +112,11 @@ I love building applications that are **functional**, **secure**, and **scalable
 
 </div>
 
-<!-- ============ ACTIVITY STATUS / CONTRIBUTION GRAPH ============ -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" width="28"/> **Activity Status**
+## 🌐 3D Contribution Globe
 
 <div align="center">
-  <a href="https://github.com/Hasitha-Sandaruwan-Silva">
-    <img src="https://ghchart.rshah.org/9B7FFF/Hasitha-Sandaruwan-Silva" alt="Hasitha's GitHub Contribution Chart" width="100%"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/Hasitha-Sandaruwan-Silva/Hasitha-Sandaruwan-Silva/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution Graph"/>
 </div>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="28"/> **Contribution Activity Graph**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&theme=tokyo-night&hide_border=true&area=true&radius=12&bg_color=0D1117&color=9B7FFF&line=9B7FFF&point=ffffff&custom_title=Contribution%20Trend%20Over%20Time" width="100%"/>
-</div>
-
 <!-- ============ SNAKE ANIMATION ============ -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28"/> **Contribution Snake**
 
