@@ -114,50 +114,14 @@ I love building applications that are **functional**, **secure**, and **scalable
 ---
 
 ---
-
 ## 📈 My GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hasitha-Sandaruwan-Silva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hasitha-Sandaruwan-Silva&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
 </div>
-
----
-
----
-
-<br/>
-
-<table width="100%">
-<tr>
-<td valign="top" width="55%">
-
-### 🗂️ Activity Overview
-
-**📦 Contributed to**
-
-🌾 [Hasitha-Sandaruwan-Silva/GoviyaNet](https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet),<br>
-🎨 [Hasitha-Sandaruwan-Silva/GoviyaNet-Frontend](https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet-Frontend),<br>
-🏨 [Hasitha-Sandaruwan-Silva/Mahameruwan_Project](https://github.com/Hasitha-Sandaruwan-Silva/Mahameruwan_Project)<br>
-<sub>and 2 other repositories</sub>
-
-</td>
-<td valign="top" width="45%">
-
-### 📈 Contribution Breakdown
-            Code review
-                │
-                │
-   88% ─────────┼───────── Issues
- Commits        │
-                │
-            12% │
-        Pull requests
-
-
-        
-</td>
-</tr>
-</table>
-
