@@ -92,58 +92,25 @@ I love building applications that are **functional**, **secure**, and **scalable
 <!-- ============ ANIMATED LINE ============ -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="28"/> **Featured Projects**
+## 📌 Pinned
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Sheaf%20of%20Rice.png" width="22"/> **GoviyaNet**
-      <br>Farm-to-Table Market Platform
-      <br>Spring Boot | Java 17 | React | Microservices
-      <ul>
-        <li>7-microservice architecture</li>
-        <li>JWT + Spring Security + RBAC</li>
-        <li>ActiveMQ message broker</li>
-        <li>Spring Cloud Gateway</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hotel.png" width="22"/> **Mahameruwa**
-      <br>Hotel Management System
-      <br>Django REST | Next.js 14 | TypeScript
-      <ul>
-        <li>6 user roles with RBAC</li>
-        <li>OTP-based authentication</li>
-        <li>Inventory + Finance modules</li>
-        <li>Sinhala language support</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="22"/> **VegiTrack LK**
-      <br>Vegetable Price Intelligence
-      <br>FastAPI | Flutter | scikit-learn
-      <ul>
-        <li>ML model with 98.7% R² accuracy</li>
-        <li>4,704+ CBSL records</li>
-        <li>Flutter mobile app</li>
-        <li>Dockerized backend</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="22"/> **Text Behind Person**
-      <br>AI Creative Photo Editor
-      <br>Flutter | Gemini 2.0 | FastAPI
-      <ul>
-        <li>AI-powered text placement</li>
-        <li>Person segmentation</li>
-        <li>Social media ready outputs</li>
-        <li>Mobile-first design</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<a href="https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=GoviyaNet&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=ffffff&border_color=30363d&border_radius=8" />
+</a>
+<a href="https://github.com/Hasitha-Sandaruwan-Silva/Mahameruwa">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=Mahameruwa&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=ffffff&border_color=30363d&border_radius=8" />
+</a>
+
+<a href="https://github.com/Hasitha-Sandaruwan-Silva/VegiTrack-LK">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=VegiTrack-LK&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=ffffff&border_color=30363d&border_radius=8" />
+</a>
+<a href="https://github.com/Hasitha-Sandaruwan-Silva/Text-Behind-Person">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=Text-Behind-Person&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=ffffff&border_color=30363d&border_radius=8" />
+</a>
+
+</div>
 
 <!-- ============ ANIMATED LINE ============ -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
