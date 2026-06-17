@@ -113,13 +113,7 @@ I love building applications that are **functional**, **secure**, and **scalable
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hasitha-Sandaruwan-Silva&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
-
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=Hasitha-Sandaruwan-Silva&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
 
 ---
 
