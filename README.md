@@ -17,10 +17,10 @@ I love building applications that are **functional**, **secure**, and **scalable
 
 ---
 
-## 🚀 What I'm Working On:
+##  What I'm Working On:
 
-- 🌾 Building **GoviyaNet** — Farm-to-table platform with **7 Spring Boot microservices**
-- 🏨 Developing **Mahameruwa** — Multi-role hotel management system (Django REST + Next.js 14)
+-  Building **GoviyaNet** — Farm-to-table platform with **7 Spring Boot microservices**
+-  Developing **Mahameruwa** — Multi-role hotel management system (Django REST + Next.js 14)
 - 📊 Researching ML models for price prediction (**98.7% R²** on VegiTrack LK)
 - 🤖 Exploring AI integration using **Google Gemini 2.0** for creative mobile apps
 - 🔐 Strengthening backend security with **JWT, OAuth2, and Spring Security RBAC**
@@ -91,13 +91,13 @@ I love building applications that are **functional**, **secure**, and **scalable
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Pinned
 
 <div align="center">
 
 | Repository | Description | Tech Stack |
 |------------|-------------|------------|
-| [**GoviyaNet**](https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet) |  Farm-to-table platform with 7 microservices | `Spring Boot` `MySQL` `ActiveMQ` |
+| [**GoviyaNet**](https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet) | 🌾 Farm-to-table platform with 7 microservices | `Spring Boot` `MySQL` `ActiveMQ` |
 | [**GoviyaNet-Frontend**](https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet-Frontend) | 🎨 Frontend for GoviyaNet | `Next.js` `Tailwind` `React` |
 | [**Mahameruwan_Project**](https://github.com/Hasitha-Sandaruwan-Silva/Mahameruwan_Project) | 🏨 Hotel management system | `Django REST` `Next.js 14` |
 | [**VegiTrackLK**](https://github.com/Hasitha-Sandaruwan-Silva/VegiTrackLK) | 📊 ML price prediction (98.7% R²) | `Python` `scikit-learn` `Pandas` |
@@ -110,13 +110,13 @@ I love building applications that are **functional**, **secure**, and **scalable
 
 <div align="center">
 
-![GitHub Contributions](https://gh-chart.vercel.app/api/Hasitha-Sandaruwan-Silva?theme=tokyonight)
+![Contribution Graph](https://ghchart.rshah.org/tokyonight/Hasitha-Sandaruwan-Silva)
 
 </div>
 
 ---
 
-##  GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -131,7 +131,7 @@ I love building applications that are **functional**, **secure**, and **scalable
 
 <div align="center">
 
-###  Thanks for visiting my profile!
+### 🙏 Thanks for visiting my profile!
 
 **Feel free to connect with me for collaborations or opportunities!** 🚀
 
