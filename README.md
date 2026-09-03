@@ -21,10 +21,10 @@ I love building applications that are **functional**, **secure**, and **scalable
 
 - 🌾 Building **GoviyaNet** — Farm-to-table platform with **7 Spring Boot microservices**
 - 🏨 Developing **Mahameruwa** — Multi-role hotel management system (Django REST + Next.js 14)
--  Researching ML models for price prediction (**98.7% R²** on VegiTrack LK)
+- 📊 Researching ML models for price prediction (**98.7% R²** on VegiTrack LK)
 - 🤖 Exploring AI integration using **Google Gemini 2.0** for creative mobile apps
 - 🔐 Strengthening backend security with **JWT, OAuth2, and Spring Security RBAC**
-- ️ Designing scalable database architectures with **MySQL** and message brokers
+- 🗄️ Designing scalable database architectures with **MySQL** and message brokers
 
 ---
 
@@ -79,46 +79,60 @@ I love building applications that are **functional**, **secure**, and **scalable
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
-<!-- ============ ANIMATED LINE ============ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
 
 <!-- ============ ANIMATED LINE ============ -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
 
 <!-- ============ ANIMATED LINE ============ -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
-## 📌 Pinned
+
+<!-- ============ ANIMATED LINE ============ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+
+---
+
+## 📌 Pinned Projects
 
 <div align="center">
 
-  <a href="https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet">
-    <img src="https://github-readme-stats-alpha-five.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=GoviyaNet&theme=tokyonight&show_owner=true" />
-  </a>
-  <a href="https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet-Frontend">
-    <img src="https://github-readme-stats-alpha-five.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=GoviyaNet-Frontend&theme=tokyonight&show_owner=true" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/Hasitha-Sandaruwan-Silva/Mahameruwan_Project">
-    <img src="https://github-readme-stats-alpha-five.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=Mahameruwan_Project&theme=tokyonight&show_owner=true" />
-  </a>
-  <a href="https://github.com/Hasitha-Sandaruwan-Silva/VegiTrackLK">
-    <img src="https://github-readme-stats-alpha-five.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=VegiTrackLK&theme=tokyonight&show_owner=true" />
-  </a>
+| Repository | Description | Tech Stack |
+|------------|-------------|------------|
+| [**GoviyaNet**](https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet) |  Farm-to-table platform with 7 microservices | `Spring Boot` `MySQL` `ActiveMQ` |
+| [**GoviyaNet-Frontend**](https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet-Frontend) | 🎨 Frontend for GoviyaNet | `Next.js` `Tailwind` `React` |
+| [**Mahameruwan_Project**](https://github.com/Hasitha-Sandaruwan-Silva/Mahameruwan_Project) | 🏨 Hotel management system | `Django REST` `Next.js 14` |
+| [**VegiTrackLK**](https://github.com/Hasitha-Sandaruwan-Silva/VegiTrackLK) | 📊 ML price prediction (98.7% R²) | `Python` `scikit-learn` `Pandas` |
 
 </div>
 
 ---
 
-## 📈 My GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
 
-  <img src="https://github-readme-stats-alpha-five.vercel.app/api?username=Hasitha-Sandaruwan-Silva&show_icons=true&theme=tokyonight&count_private=true"/>
+![GitHub Contributions](https://gh-chart.vercel.app/api/Hasitha-Sandaruwan-Silva?theme=tokyonight)
 
-  <br/><br/>
+</div>
 
-  <img src="https://github-readme-stats-alpha-five.vercel.app/api/top-langs/?username=Hasitha-Sandaruwan-Silva&layout=compact&theme=tokyonight"/>
+---
+
+##  GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Hasitha-Sandaruwan-Silva&theme=tokyonight&no-frame=true&row=1&column=4)
+
+</div>
+
+---
+
+<!-- ============ ANIMATED LINE ============ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
+
+<div align="center">
+
+###  Thanks for visiting my profile!
+
+**Feel free to connect with me for collaborations or opportunities!** 🚀
 
 </div>
