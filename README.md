@@ -106,6 +106,8 @@ I love building applications that are **functional**, **secure**, and **scalable
 
 ---
 
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -121,6 +123,8 @@ I love building applications that are **functional**, **secure**, and **scalable
 </div>
 
 </div>
+
+---
 
 ---
 
