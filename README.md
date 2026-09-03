@@ -1,14 +1,14 @@
-##  About Me:
+## 🪄 About Me:
 
 **2nd Year Software Engineering student** at **NIBM** (HND), passionate about **Full-Stack Development**, **Microservices Architecture**, and **AI Integration**. Currently learning and building projects using **Java Spring Boot**, **Django REST**, **Next.js**, and **Flutter**, while exploring **FastAPI**, **React**, and modern AI frameworks.
 
 I love building applications that are **functional**, **secure**, and **scalable** — focusing on clean code, modern architectures, and real-world problem solving. Always eager to learn new technologies and grow as a developer.
 
-📍 **Kurunegala, Sri Lanka** &nbsp;·&nbsp; 🎓 **2nd Year — NIBM HND in Software Engineering** &nbsp;·&nbsp;  **Open to Internships & Freelance**
+📍 **Kurunegala, Sri Lanka** &nbsp;·&nbsp; 🎓 **2nd Year — NIBM HND in Software Engineering** &nbsp;·&nbsp; 💼 **Open to Internships & Freelance**
 
 ---
 
-## 🌐 Socials:
+##  Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasitha-sandaruwan-a5a68b374)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasitha-Sandaruwan-Silva)
@@ -21,10 +21,10 @@ I love building applications that are **functional**, **secure**, and **scalable
 
 - 🌾 Building **GoviyaNet** — Farm-to-table platform with **7 Spring Boot microservices**
 - 🏨 Developing **Mahameruwa** — Multi-role hotel management system (Django REST + Next.js 14)
-- 📊 Researching ML models for price prediction (**98.7% R²** on VegiTrack LK)
+-  Researching ML models for price prediction (**98.7% R²** on VegiTrack LK)
 - 🤖 Exploring AI integration using **Google Gemini 2.0** for creative mobile apps
 - 🔐 Strengthening backend security with **JWT, OAuth2, and Spring Security RBAC**
-- 🗄️ Designing scalable database architectures with **MySQL** and message brokers
+- ️ Designing scalable database architectures with **MySQL** and message brokers
 
 ---
 
@@ -98,33 +98,11 @@ I love building applications that are **functional**, **secure**, and **scalable
 | Repository | Description | Tech Stack |
 |------------|-------------|------------|
 | [**GoviyaNet**](https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet) | 🌾 Farm-to-table platform with 7 microservices | `Spring Boot` `MySQL` `ActiveMQ` |
-| [**GoviyaNet-Frontend**](https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet-Frontend) | 🎨 Frontend for GoviyaNet | `Next.js` `Tailwind` `React` |
+| [**GoviyaNet-Frontend**](https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet-Frontend) |  Frontend for GoviyaNet | `Next.js` `Tailwind` `React` |
 | [**Mahameruwan_Project**](https://github.com/Hasitha-Sandaruwan-Silva/Mahameruwan_Project) | 🏨 Hotel management system | `Django REST` `Next.js 14` |
-| [**VegiTrackLK**](https://github.com/Hasitha-Sandaruwan-Silva/VegiTrackLK) | 📊 ML price prediction (98.7% R²) | `Python` `scikit-learn` `Pandas` |
+| [**VegiTrackLK**](https://github.com/Hasitha-Sandaruwan-Silva/VegiTrackLK) |  ML price prediction (98.7% R²) | `Python` `scikit-learn` `Pandas` |
 
 </div>
-
----
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasitha-Sandaruwan-Silva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Sandaruwan-Silva&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-</div>
-
----
 
 ---
 
