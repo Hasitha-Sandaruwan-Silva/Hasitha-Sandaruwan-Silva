@@ -87,28 +87,25 @@ I love building applications that are **functional**, **secure**, and **scalable
 
 <!-- ============ ANIMATED LINE ============ -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
-
 ## 📌 Pinned
 
 <div align="center">
 
-![GoviyaNet](https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=GoviyaNet&theme=tokyonight&show_owner=true)
-![GoviyaNet-Frontend](https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=GoviyaNet-Frontend&theme=tokyonight&show_owner=true)
+  <a href="https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet">
+    <img src="https://github-readme-stats-alpha-five.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=GoviyaNet&theme=tokyonight&show_owner=true" />
+  </a>
+  <a href="https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet-Frontend">
+    <img src="https://github-readme-stats-alpha-five.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=GoviyaNet-Frontend&theme=tokyonight&show_owner=true" />
+  </a>
 
-![Mahameruwan_Project](https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=Mahameruwan_Project&theme=tokyonight&show_owner=true)
-![VegiTrackLK](https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=VegiTrackLK&theme=tokyonight&show_owner=true)
+  <br/><br/>
 
-</div>
-
----
-
-## 📈 My GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasitha-Sandaruwan-Silva&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Sandaruwan-Silva&layout=compact&theme=tokyonight)
+  <a href="https://github.com/Hasitha-Sandaruwan-Silva/Mahameruwan_Project">
+    <img src="https://github-readme-stats-alpha-five.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=Mahameruwan_Project&theme=tokyonight&show_owner=true" />
+  </a>
+  <a href="https://github.com/Hasitha-Sandaruwan-Silva/VegiTrackLK">
+    <img src="https://github-readme-stats-alpha-five.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=VegiTrackLK&theme=tokyonight&show_owner=true" />
+  </a>
 
 </div>
 
@@ -118,10 +115,10 @@ I love building applications that are **functional**, **secure**, and **scalable
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hasitha-Sandaruwan-Silva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-stats-alpha-five.vercel.app/api?username=Hasitha-Sandaruwan-Silva&show_icons=true&theme=tokyonight&count_private=true"/>
 
-<br><br>
+  <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Sandaruwan-Silva&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-alpha-five.vercel.app/api/top-langs/?username=Hasitha-Sandaruwan-Silva&layout=compact&theme=tokyonight"/>
 
 </div>
