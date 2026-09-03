@@ -1,10 +1,10 @@
-## 🪄 About Me:
+##  About Me:
 
 **2nd Year Software Engineering student** at **NIBM** (HND), passionate about **Full-Stack Development**, **Microservices Architecture**, and **AI Integration**. Currently learning and building projects using **Java Spring Boot**, **Django REST**, **Next.js**, and **Flutter**, while exploring **FastAPI**, **React**, and modern AI frameworks.
 
 I love building applications that are **functional**, **secure**, and **scalable** — focusing on clean code, modern architectures, and real-world problem solving. Always eager to learn new technologies and grow as a developer.
 
-📍 **Kurunegala, Sri Lanka** &nbsp;·&nbsp; 🎓 **2nd Year — NIBM HND in Software Engineering** &nbsp;·&nbsp; 💼 **Open to Internships & Freelance**
+📍 **Kurunegala, Sri Lanka** &nbsp;·&nbsp; 🎓 **2nd Year — NIBM HND in Software Engineering** &nbsp;·&nbsp;  **Open to Internships & Freelance**
 
 ---
 
@@ -17,10 +17,10 @@ I love building applications that are **functional**, **secure**, and **scalable
 
 ---
 
-##  What I'm Working On:
+## 🚀 What I'm Working On:
 
--  Building **GoviyaNet** — Farm-to-table platform with **7 Spring Boot microservices**
--  Developing **Mahameruwa** — Multi-role hotel management system (Django REST + Next.js 14)
+- 🌾 Building **GoviyaNet** — Farm-to-table platform with **7 Spring Boot microservices**
+- 🏨 Developing **Mahameruwa** — Multi-role hotel management system (Django REST + Next.js 14)
 - 📊 Researching ML models for price prediction (**98.7% R²** on VegiTrack LK)
 - 🤖 Exploring AI integration using **Google Gemini 2.0** for creative mobile apps
 - 🔐 Strengthening backend security with **JWT, OAuth2, and Spring Security RBAC**
@@ -106,21 +106,19 @@ I love building applications that are **functional**, **secure**, and **scalable
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Stats
 
 <div align="center">
 
-![Contribution Graph](https://ghchart.rshah.org/tokyonight/Hasitha-Sandaruwan-Silva)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasitha-Sandaruwan-Silva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Hasitha-Sandaruwan-Silva&theme=tokyonight&no-frame=true&row=1&column=4)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Sandaruwan-Silva&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 </div>
 
