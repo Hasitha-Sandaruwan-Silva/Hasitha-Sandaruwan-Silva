@@ -1,4 +1,3 @@
-
 ## 🪄 About Me:
 
 **2nd Year Software Engineering student** at **NIBM** (HND), passionate about **Full-Stack Development**, **Microservices Architecture**, and **AI Integration**. Currently learning and building projects using **Java Spring Boot**, **Django REST**, **Next.js**, and **Flutter**, while exploring **FastAPI**, **React**, and modern AI frameworks.
@@ -13,7 +12,7 @@ I love building applications that are **functional**, **secure**, and **scalable
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasitha-sandaruwan-a5a68b374)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasitha-Sandaruwan-Silva)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hsandaruwan39@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
 
 ---
@@ -22,10 +21,10 @@ I love building applications that are **functional**, **secure**, and **scalable
 
 - 🌾 Building **GoviyaNet** — Farm-to-table platform with **7 Spring Boot microservices**
 - 🏨 Developing **Mahameruwa** — Multi-role hotel management system (Django REST + Next.js 14)
-- 📊 Researching ML models for price prediction (**98.7% R²** on VegiTrack LK)
+-  Researching ML models for price prediction (**98.7% R²** on VegiTrack LK)
 - 🤖 Exploring AI integration using **Google Gemini 2.0** for creative mobile apps
 - 🔐 Strengthening backend security with **JWT, OAuth2, and Spring Security RBAC**
-- 🗄️ Designing scalable database architectures with **MySQL** and message brokers
+- ️ Designing scalable database architectures with **MySQL** and message brokers
 
 ---
 
@@ -88,30 +87,23 @@ I love building applications that are **functional**, **secure**, and **scalable
 
 <!-- ============ ANIMATED LINE ============ -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
-## 📌 Pinned
+
+##  Pinned
 
 <div align="center">
 
-  <!-- GoviyaNet Backend -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=GoviyaNet&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=ffffff&border_color=30363d&border_radius=8" />
-  
-  <!-- GoviyaNet Frontend -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=GoviyaNet-Frontend&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=ffffff&border_color=30363d&border_radius=8" />
 
-  <br/>
+  <br/><br/>
 
-  <!-- Mahameruwa -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=Mahameruwan_Project&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=ffffff&border_color=30363d&border_radius=8" />
-  
-  <!-- VegiTrackLK -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=VegiTrackLK&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=ffffff&border_color=30363d&border_radius=8" />
 
 </div>
----
 
 ---
 
----
 ## 📈 My GitHub Stats
 
 <div align="center">
