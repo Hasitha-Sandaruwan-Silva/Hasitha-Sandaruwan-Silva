@@ -88,24 +88,25 @@ I love building applications that are **functional**, **secure**, and **scalable
 
 <!-- ============ ANIMATED LINE ============ -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
-
 ## 📌 Pinned
 
 <div align="center">
 
-<a href="https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet">
+  <!-- GoviyaNet Backend -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=GoviyaNet&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=ffffff&border_color=30363d&border_radius=8" />
-</a>
-<a href="https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet-Frontend">
+  
+  <!-- GoviyaNet Frontend -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=GoviyaNet-Frontend&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=ffffff&border_color=30363d&border_radius=8" />
-</a>
 
-<a href="https://github.com/Hasitha-Sandaruwan-Silva/Mahameruwan_Project">
+  <br/>
+
+  <!-- Mahameruwa -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=Mahameruwan_Project&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=ffffff&border_color=30363d&border_radius=8" />
-</a>
-<a href="https://github.com/Hasitha-Sandaruwan-Silva/VegiTrackLK">
+  
+  <!-- VegiTrackLK -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=VegiTrackLK&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=ffffff&border_color=30363d&border_radius=8" />
-</a>
+
+</div>
 ---
 
 ---
