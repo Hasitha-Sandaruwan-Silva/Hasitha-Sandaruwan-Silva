@@ -48,31 +48,28 @@ I love building applications that are **functional**, **secure**, and **scalable
 
 ## 📌 Pinned Projects
 
-<div align="center">
-<a href="https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=GoviyaNet&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=ffffff&border_color=30363d&border_radius=8" alt="GoviyaNet repository" />
-  </a>
-  <a href="https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet-Frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=GoviyaNet-Frontend&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=ffffff&border_color=30363d&border_radius=8" alt="GoviyaNet Frontend repository" />
-  </a>
-  <a href="https://github.com/Hasitha-Sandaruwan-Silva/Mahameruwan_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=Mahameruwan_Project&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=ffffff&border_color=30363d&border_radius=8" alt="Mahameruwan Project repository" />
-  </a>
-  <a href="https://github.com/Hasitha-Sandaruwan-Silva/VegiTrackLK">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hasitha-Sandaruwan-Silva&repo=VegiTrackLK&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=9B7FFF&icon_color=9B7FFF&text_color=ffffff&border_color=30363d&border_radius=8" alt="VegiTrackLK repository" />
-  </a>
-</div>
+The previous repository-card service is currently returning errors, so these project links use reliable GitHub links and working star/fork badges instead of broken images.
+
+| Project | Repository | Stars | Forks |
+| --- | --- | --- | --- |
+| 🌾 **GoviyaNet** | [Open repository](https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet) | [![Stars](https://img.shields.io/github/stars/Hasitha-Sandaruwan-Silva/GoviyaNet?style=flat-square&color=9B7FFF)](https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet/stargazers) | [![Forks](https://img.shields.io/github/forks/Hasitha-Sandaruwan-Silva/GoviyaNet?style=flat-square&color=6DB33F)](https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet/network/members) |
+| 🎨 **GoviyaNet Frontend** | [Open repository](https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet-Frontend) | [![Stars](https://img.shields.io/github/stars/Hasitha-Sandaruwan-Silva/GoviyaNet-Frontend?style=flat-square&color=9B7FFF)](https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet-Frontend/stargazers) | [![Forks](https://img.shields.io/github/forks/Hasitha-Sandaruwan-Silva/GoviyaNet-Frontend?style=flat-square&color=6DB33F)](https://github.com/Hasitha-Sandaruwan-Silva/GoviyaNet-Frontend/network/members) |
+| 🏨 **Mahameruwan Project** | [Open repository](https://github.com/Hasitha-Sandaruwan-Silva/Mahameruwan_Project) | [![Stars](https://img.shields.io/github/stars/Hasitha-Sandaruwan-Silva/Mahameruwan_Project?style=flat-square&color=9B7FFF)](https://github.com/Hasitha-Sandaruwan-Silva/Mahameruwan_Project/stargazers) | [![Forks](https://img.shields.io/github/forks/Hasitha-Sandaruwan-Silva/Mahameruwan_Project?style=flat-square&color=6DB33F)](https://github.com/Hasitha-Sandaruwan-Silva/Mahameruwan_Project/network/members) |
+| 📊 **VegiTrackLK** | [Open repository](https://github.com/Hasitha-Sandaruwan-Silva/VegiTrackLK) | [![Stars](https://img.shields.io/github/stars/Hasitha-Sandaruwan-Silva/VegiTrackLK?style=flat-square&color=9B7FFF)](https://github.com/Hasitha-Sandaruwan-Silva/VegiTrackLK/stargazers) | [![Forks](https://img.shields.io/github/forks/Hasitha-Sandaruwan-Silva/VegiTrackLK?style=flat-square&color=6DB33F)](https://github.com/Hasitha-Sandaruwan-Silva/VegiTrackLK/network/members) |
 
 ---
 
 ## 📊 GitHub Status
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hasitha-Sandaruwan-Silva&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Hasitha's GitHub statistics" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hasitha-Sandaruwan-Silva&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Hasitha's GitHub contribution streak" />
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasitha-Sandaruwan-Silva&theme=tokyonight" alt="Hasitha's GitHub profile activity" />
 </div>   
  <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Sandaruwan-Silva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Most used programming languages" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Hasitha-Sandaruwan-Silva&theme=tokyonight&hide_border=true" alt="Hasitha's GitHub contribution streak" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hasitha-Sandaruwan-Silva&theme=tokyonight" alt="Most used programming language" />
+</div>   
+ <div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hasitha-Sandaruwan-Silva&theme=tokyonight" alt="Languages used across repositories" />
 </div>
 
 ---
@@ -80,7 +77,7 @@ I love building applications that are **functional**, **secure**, and **scalable
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Hasitha-Sandaruwan-Silva&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="GitHub trophies" />
+<img src="https://github-trophies.vercel.app/?username=Hasitha-Sandaruwan-Silva" alt="GitHub trophies" />
 </div>
 
 ---
@@ -88,5 +85,5 @@ I love building applications that are **functional**, **secure**, and **scalable
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Hasitha-Sandaruwan-Silva&label=Profile%20Views&color=9B7FFF&style=flat" alt="Profile views" />
 </div> <!-- Replace your.email@gmail.com and the Facebook URL with your real contact links. --> <!--
-If a widget does not appear immediately, open the image URL directly once and refresh your GitHub profile README. GitHub may cache external images for a short time.
+All external image endpoints used below were checked before delivery. If GitHub still shows an old broken image, edit and save README.md once to clear GitHub's cached rendering.
 -->
