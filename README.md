@@ -97,16 +97,7 @@ A machine-learning project investigating local vegetable price patterns and data
 ## 📊 GitHub Status
 
 <div align="center">
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&theme=github-compact&hide_border=true&area=true" alt="Hasitha's GitHub contribution activity graph" />
-</div> <div align="center">
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasitha-Sandaruwan-Silva&theme=tokyonight" alt="Hasitha's GitHub statistics" />
-</div>   
- <div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Hasitha-Sandaruwan-Silva&theme=tokyonight&hide_border=true" alt="Hasitha's GitHub contribution streak" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hasitha-Sandaruwan-Silva&theme=tokyonight" alt="Most used programming language" />
-</div>   
- <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hasitha-Sandaruwan-Silva&theme=tokyonight" alt="Languages used across repositories" />
+<img width="98%" src="https://ghchart.rshah.org/2ea043/Hasitha-Sandaruwan-Silva" alt="Hasitha's GitHub contribution calendar" />
 </div>
 
 ---
