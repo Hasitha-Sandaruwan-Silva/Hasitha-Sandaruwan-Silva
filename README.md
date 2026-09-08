@@ -97,15 +97,7 @@ A machine-learning project investigating local vegetable price patterns and data
 ## 📊 GitHub Status
 
 <div align="center">
-<img width="98%" src="https://ghchart.rshah.org/2ea043/Hasitha-Sandaruwan-Silva" alt="Hasitha's GitHub contribution calendar" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-trophies.vercel.app/?username=Hasitha-Sandaruwan-Silva" alt="GitHub trophies" />
+<img width="98%" src="https://ghchart.rshah.org/000000/Hasitha-Sandaruwan-Silva" alt="Hasitha's GitHub contribution calendar" />
 </div>
 
 ---
