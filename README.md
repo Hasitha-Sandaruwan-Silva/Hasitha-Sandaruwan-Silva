@@ -97,6 +97,8 @@ A machine-learning project investigating local vegetable price patterns and data
 ## 📊 GitHub Status
 
 <div align="center">
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&theme=github-compact&hide_border=true&area=true" alt="Hasitha's GitHub contribution activity graph" />
+</div> <div align="center">
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasitha-Sandaruwan-Silva&theme=tokyonight" alt="Hasitha's GitHub statistics" />
 </div>   
  <div align="center">
