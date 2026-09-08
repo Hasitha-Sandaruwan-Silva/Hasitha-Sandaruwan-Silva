@@ -103,7 +103,7 @@ A machine-learning project investigating local vegetable price patterns and data
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Hasitha-Sandaruwan-Silva&label=Profile%20Views&color=9B7FFF&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/badge/Building%20with%20purpose-Learning%20every%20day-161B22?style=for-the-badge&labelColor=2EA043&logo=github&logoColor=white" alt="Building with purpose, learning every day" />
 </div> <!-- Replace your.email@gmail.com and the Facebook URL with your real contact links. --> <!--
 All external image endpoints used below were checked before delivery. If GitHub still shows an old broken image, edit and save README.md once to clear GitHub's cached rendering.
 -->
