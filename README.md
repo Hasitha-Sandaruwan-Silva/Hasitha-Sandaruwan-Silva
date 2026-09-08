@@ -93,10 +93,10 @@ A machine-learning project investigating local vegetable price patterns and data
 [![View VegiTrack](https://img.shields.io/badge/VIEW_PROJECT-9B7FFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasitha-Sandaruwan-Silva/VegiTrackLK) [![Stars](https://img.shields.io/github/stars/Hasitha-Sandaruwan-Silva/VegiTrackLK?style=flat-square&label=stars&color=9B7FFF)](https://github.com/Hasitha-Sandaruwan-Silva/VegiTrackLK/stargazers)
 
 
-## 📊 GitHub Activity Graph
+## 📊 GitHub Status
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&theme=github-compact&hide_border=true&area=true" alt="Hasitha's GitHub activity graph" />
+<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663679362595/jSsuMZJoepCglFhD.svg" alt="Hasitha-Sandaruwan-Silva's GitHub contributions" />
 </div>
 
 <div align="center">
