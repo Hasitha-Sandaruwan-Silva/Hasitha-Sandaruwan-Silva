@@ -95,27 +95,27 @@ A machine-learning project investigating local vegetable price patterns and data
 
 ## 📊 GitHub Contribution Graph
 
-<details>
-<summary>📅 2026</summary>
+<details open>
+<summary><b>2026</b></summary>
 <br>
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&theme=github-compact&hide_border=true&area=true&year=2026" alt="2026 contributions" />
+<img src="https://ghchart.rshah.org/2EA043/Hasitha-Sandaruwan-Silva" alt="2026 contributions" />
 </div>
 </details>
 
 <details>
-<summary>📅 2025</summary>
+<summary><b>2025</b></summary>
 <br>
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&theme=github-compact&hide_border=true&area=true&year=2025" alt="2025 contributions" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&theme=github-compact&hide_border=true&area=false&year=2025" alt="2025 contributions" />
 </div>
 </details>
 
 <details>
-<summary>📅 2024</summary>
+<summary><b>2024</b></summary>
 <br>
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&theme=github-compact&hide_border=true&area=true&year=2024" alt="2024 contributions" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&theme=github-compact&hide_border=true&area=false&year=2024" alt="2024 contributions" />
 </div>
 </details>
 
