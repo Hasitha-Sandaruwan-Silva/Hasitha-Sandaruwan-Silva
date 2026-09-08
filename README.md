@@ -93,11 +93,31 @@ A machine-learning project investigating local vegetable price patterns and data
 [![View VegiTrack](https://img.shields.io/badge/VIEW_PROJECT-9B7FFF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hasitha-Sandaruwan-Silva/VegiTrackLK) [![Stars](https://img.shields.io/github/stars/Hasitha-Sandaruwan-Silva/VegiTrackLK?style=flat-square&label=stars&color=9B7FFF)](https://github.com/Hasitha-Sandaruwan-Silva/VegiTrackLK/stargazers)
 
 
-## 📊 GitHub Status
+## 📊 GitHub Contribution Graph
 
+<details>
+<summary>📅 2026</summary>
+<br>
 <div align="center">
-<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663679362595/jSsuMZJoepCglFhD.svg" alt="Hasitha-Sandaruwan-Silva's GitHub contributions" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&theme=github-compact&hide_border=true&area=true&year=2026" alt="2026 contributions" />
 </div>
+</details>
+
+<details>
+<summary>📅 2025</summary>
+<br>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&theme=github-compact&hide_border=true&area=true&year=2025" alt="2025 contributions" />
+</div>
+</details>
+
+<details>
+<summary>📅 2024</summary>
+<br>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&theme=github-compact&hide_border=true&area=true&year=2024" alt="2024 contributions" />
+</div>
+</details>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Building%20with%20purpose-Learning%20every%20day-161B22?style=for-the-badge&labelColor=2EA043&logo=github&logoColor=white" alt="Building with purpose, learning every day" />
