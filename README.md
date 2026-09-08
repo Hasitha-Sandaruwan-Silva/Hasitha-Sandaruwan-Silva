@@ -95,9 +95,31 @@ A machine-learning project investigating local vegetable price patterns and data
 
 ## 📊 GitHub Contribution Graph
 
+<details open>
+<summary><b>2026</b></summary>
+<br>
 <div align="center">
-<img src="https://ghchart.rshah.org/2EA043/Hasitha-Sandaruwan-Silva" alt="Hasitha's GitHub contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&theme=github-compact&hide_border=true&area=true&year=2026" alt="2026 contributions" />
+</div>
+</details>
 
+<details>
+<summary><b>2025</b></summary>
+<br>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&theme=github-compact&hide_border=true&area=true&year=2025" alt="2025 contributions" />
+</div>
+</details>
+
+<details>
+<summary><b>2024</b></summary>
+<br>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasitha-Sandaruwan-Silva&theme=github-compact&hide_border=true&area=true&year=2024" alt="2024 contributions" />
+</div>
+</details>
+
+<div align="center">
 <a href="https://github.com/Hasitha-Sandaruwan-Silva?tab=overview&from=2026-01-01&to=2026-12-31">
   <img src="https://img.shields.io/badge/View%20Full%20Contribution%20History-2EA043?style=for-the-badge&logo=github&logoColor=white" alt="View full history" />
 </a>
